@@ -1,3 +1,7 @@
+Recipe App by Dev Ed tutorial on Youtube.<br />
+Meddled with calling on API, understanding Search + API and modular CSS styling <br />
+Understanding setEffect and setState in React <br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
